@@ -5,7 +5,8 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="madhavsameer" /> </p>
+
+<p align="left"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
