@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Madhav sameer</h1>
+<h1 align="center">Hey👋, I'm Madhav Sameer</h1>
 
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A Dedicated Full-Stack developer from Patna, India</h3>
 
 
 
-<p align="left"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="madhavsameer" /> </p>
+<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
