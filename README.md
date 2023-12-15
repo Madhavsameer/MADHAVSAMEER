@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="madhavsameer" /> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47lw6zazdk1ife8zhfmxmbmlixd5y4hr9jrj9g9i1r&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
