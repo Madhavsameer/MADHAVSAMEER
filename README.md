@@ -7,11 +7,11 @@
 
 
 
-<p align="center"> <img src="https://media4.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47lw6zazdk1ife8zhfmxmbmlixd5y4hr9jrj9g9i1r&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="madhavsameer" /> </p>
+<p align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/madhavsameer" target="blank"><img src="https://img.shields.io/twitter/follow/madhavsameer?logo=linkedin&style=for-the-badge" alt="madhavsameer" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/madhavsameer/" target="blank"><img src="https://img.shields.io/twitter/follow/madhavsameer?logo=linkedin&style=for-the-badge" alt="madhavsameer" /></a> </p>
 
 - 🔭 I’m currently working on [Online Tutorial System](https://github.com/Madhavsameer/OnlineTutorialSystem_Frontend)
 
