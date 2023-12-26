@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Hey👋, I'm Madhav Sameer</h1>
+<h1 align="left">Hey👋, I'm Madhav Sameer</h1>
 
-<h3 align="center">A Dedicated Full-Stack developer from Patna, India</h3>
+<h3 align="left">A Dedicated Full-Stack developer from Patna, India</h3>
 
 
 
-<p align="center" style="border-radius: 100px;"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="madhavsameer" /> </p>
+<p align="left" style="border-radius: 100px;"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
@@ -33,23 +33,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://dev.to/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://twitter.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://codesandbox.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://kaggle.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://fb.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://instagram.com/madhavsameer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhavsameer_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/madhavsameer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhavsameer" height="30" width="40" /></a>
-<a href="https://discord.gg/madhavsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://codepen.io/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://dev.to/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://twitter.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://codesandbox.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://kaggle.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://fb.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://instagram.com/madhavsameer_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhavsameer_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/madhavsameer" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhavsameer" height="30" width="40" /></a>
+<a href="https://discord.gg/madhavsameer" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="madhavsameer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,8 +58,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/madhavsameer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhavsameer" /></a><a href="https://ko-fi.com/madhavsameer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="madhavsameer" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavsameer&show_icons=true&locale=en&layout=compact" alt="madhavsameer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavsameer&show_icons=true&locale=en&layout=compact" alt="madhavsameer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavsameer&show_icons=true&locale=en" alt="madhavsameer" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=madhavsameer&show_icons=true&locale=en" alt="madhavsameer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavsameer&" alt="madhavsameer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavsameer&" alt="madhavsameer" /></p>
