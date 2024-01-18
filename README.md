@@ -7,7 +7,7 @@
 
 
 
-<p align="left" style="border-radius: 100px;"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="madhavsameer" /> </p>
+<p align="left" style="border-radius: 10%;"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
