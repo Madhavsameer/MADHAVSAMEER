@@ -58,8 +58,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/madhavsameer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhavsameer" /></a><a href="https://ko-fi.com/madhavsameer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="madhavsameer" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavsameer&show_icons=true&locale=en&layout=compact" alt="madhavsameer" /></p>
+### Badges
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=madhavsameer&show_icons=true&locale=en" alt="madhavsameer" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavsameer&" alt="madhavsameer" /></p>
+<a href="http://www.github.com/Madhavsameer"><img src="https://github-readme-stats.vercel.app/api?username=Madhavsameer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Madhavsameer's GitHub stats" /></a>
+
+<a href="http://www.github.com/madhavsameer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavsameer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Madhavsameer"><img src="https://activity-graph.herokuapp.com/graph?username=Madhavsameer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Madhavsameer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavsameer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
