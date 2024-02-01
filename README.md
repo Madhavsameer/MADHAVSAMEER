@@ -132,7 +132,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@madhavsameer"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=madhavsameer&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@madhavsameer's wakatime stats"/></a>
-<a href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@madhavsameer's trophy stats"/></a>
+<a href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@madhavsameer's trophy stats"/></a>
 </p>
 
 
@@ -147,7 +147,7 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/madhavsameer"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt=" :: Visitor's Count" /></a>
+<a href="https://gist.github.com/madhavsameer"><img src="https://profile-counter.glitch.me/{Madhavsameer}/count.svg" alt=" :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
