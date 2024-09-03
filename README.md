@@ -111,7 +111,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/madhavsameer/" target="blank"><img src="https://img.shields.io/twitter/follow/madhavsameer?logo=linkedin&style=for-the-badge" alt="madhavsameer" /></a> </p>
 
-- 🔭 I’m currently working on **Online tutorial System**
+- 🔭 I’m currently working on **Cloud-Kitchen-fullstack webapp**
 
 - 🌱 I’m currently learning **Flutter, Devops**
 
@@ -119,9 +119,9 @@
 
 - 🤝 I’m looking for help with **Online Tutorial System**
 
-- 👨‍💻 All of my projects are available at [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [madhavsportfolio.netlify.app](madhavsameer.netlify.app)
 
-- 📝 I regularly write articles on [realadityaop.blogspot.com](realadityaop.blogspot.com)
+- 📝 I regularly write articles on [realadityaop.blogspot.com](https://mern-blog-59mo.onrender.com/)
 
 - 💬 Ask me about **React js, Node js**
 
