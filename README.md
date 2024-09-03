@@ -119,15 +119,15 @@
 
 - 🤝 I’m looking for help with **Online Tutorial System**
 
-- 👨‍💻 All of my projects are available at [madhavsportfolio.netlify.app](madhavsameer.netlify.app)
+- 👨‍💻 All of my projects are available at [https://madhavsameer.netlify.app](https://madhavsameer.netlify.app)
 
-- 📝 I regularly write articles on [realadityaop.blogspot.com](https://mern-blog-59mo.onrender.com/)
+- 📝 I regularly write articles on [https://mern-blog-59mo.onrender.com](https://mern-blog-59mo.onrender.com/)
 
 - 💬 Ask me about **React js, Node js**
 
 - 📫 How to reach me **Madhavsameer97@gmail.com**
 
-- 📄 Know about my experiences [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
+- 📄 Know about my experiences [https://madhavsameer.netlify.app](https://madhavsameer.netlify.app)
 
 - ⚡ Fun fact **I Loves to code**
 
