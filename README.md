@@ -105,9 +105,13 @@
 
 </div>
 <div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
-
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight)     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight) 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight)
     </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsameer&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsameer" /> </p>
@@ -166,8 +170,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Madhavsameer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Madhavsameer" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavsameer&show_icons=true&locale=en&layout=compact" alt="madhavsameer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavsameer&show_icons=true&locale=en" alt="madhavsameer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavsameer&" alt="madhavsameer" /></p>
+<div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavsameer&theme=tokyonight)
+    </div>
+
