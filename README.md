@@ -109,13 +109,11 @@
 
 </div>
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight" width="450">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8" width="450">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight" width="450">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8" width="450">
 </div>
 
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight" width="450">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight" width="450">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight" width="450"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight" width="450">
 </div>
 
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
