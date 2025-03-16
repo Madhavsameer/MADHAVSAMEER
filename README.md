@@ -11,6 +11,8 @@
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsameer&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsameer" /> </p>
+
 # Main Skills #
 
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
@@ -114,7 +116,6 @@
 
    
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsameer&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsameer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
 
