@@ -104,7 +104,11 @@
 
 
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight)
+<div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
+
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight)     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight)
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsameer&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsameer" /> </p>
 
