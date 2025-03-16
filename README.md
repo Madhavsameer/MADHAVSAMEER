@@ -104,6 +104,7 @@
 
 
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsameer&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsameer" /> </p>
 
