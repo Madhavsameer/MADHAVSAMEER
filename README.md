@@ -108,18 +108,26 @@
 
 
 </div>
-<div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
-  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8)
-    </div>
-    <div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight)
-    </div>
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight" width="450">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8" width="450">
+</div>
 
-   
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight" width="450">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight" width="450">
+</div>
 
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavsameer&theme=tokyonight" width="900">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavsameer" alt="madhavsameer" /></a> </p>
+  <p align="left">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=madhavsameer&theme=tokyonight&column=-1" alt="madhavsameer" />
+  </a>  
+</p>
+
 
 <p align="left"> <a href="https://www.linkedin.com/in/madhavsameer/" target="blank"><img src="https://img.shields.io/twitter/follow/madhavsameer?logo=linkedin&style=for-the-badge" alt="madhavsameer" /></a> </p>
 
@@ -175,8 +183,5 @@
 
 
 
-<div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavsameer&theme=tokyonight)
-    </div>
+
 
